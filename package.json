@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Yihua Zhang <yihuazhang2@gmail.com> (http://yihuazhang.com/)",
+  "author": "Ibrahim Salah",
   "license": "MIT",
   "dependencies": {
     "react": "16.8.6",
